@@ -4,7 +4,7 @@ Releases and issues for the simple software installer, designed for students.
 ## Changelog
 ### v0.1-alpha3
 - Added Shotcut to available apps
-- Updgraded CLion to latest version
+- Upgraded CLion to latest version
 - Error code 3010 on windows should no longer flag as failed install
 - Startup screen on longer animates once the app is initialised
 
