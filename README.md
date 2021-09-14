@@ -1,6 +1,9 @@
 # simple-software-installer
 Releases and issues for the simple software installer, designed for students. 
 
+## Screenshots
+![Screenshot](/screenshot.png)
+
 ## Changelog
 ### v0.1-alpha3
 - Added Shotcut to available apps
