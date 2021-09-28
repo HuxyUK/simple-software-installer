@@ -5,6 +5,12 @@ Releases and issues for the simple software installer, designed for students.
 ![Screenshot](/screenshot.png)
 
 ## Changelog
+### v2021.09.1
+- Updated apps to use latest available versions
+- Fix crash on app action widget 
+- Added new category for JetBrain
+- Minor improvements and quality of life changes
+
 ### v0.1-alpha3
 - Added Shotcut to available apps
 - Upgraded CLion to latest version
